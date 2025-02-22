@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationsmalltime",
+  "title": "CzechTranslationSmallTime",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad modulu SmallTime.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://github.com/Lethrendis/CzechTranslationSmallTime",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationSmallTime/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationSmallTime/archive/refs/heads/main.zip"
+}
