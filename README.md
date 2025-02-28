@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro SmallTime verze 1.24.0. Obsahuje p�
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://github.com/Lethrendis/CzechTranslationMidi
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationSmallTime/main/module.json
 ```
 
 ## Autor
